@@ -59,6 +59,7 @@ a{
     border: 1px solid #92908b90;
     cursor: pointer;
     border-radius: 8px;
+    text-transform: capitalize;
     font-family: 'Red Rose', cursive;
 }
 
